@@ -1,2 +1,2 @@
-# SeatOnChair
-Seat on Chair website layout project
+# SitOnChair
+Sit on Chair website layout project
